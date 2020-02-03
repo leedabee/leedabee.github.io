@@ -1,0 +1,16 @@
+# Site settings
+title: Lee Blackwell
+description: Professional Resume
+# baseurl: 
+# url: 
+
+# User settings
+username: Lee Blackwell
+user_description: ndon based startup trying to create the next massive scalable DLT. I'm one of the two guys behind all the JS related stuff. Visit my blog here <a href="https://mauriciourraco.com" target="_blank">https://mauriciourraco.com</a>
+user_title: Data Engineer
+email: leslie.m.blackwell@gmail.com
+instagram_username: basicbytes
+github_username: leedabee
+
+
+exclude: ['package.json', 'src' , 'node_modules']

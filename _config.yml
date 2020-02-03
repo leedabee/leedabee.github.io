@@ -1,1 +1,15 @@
-theme: jekyll-theme-minimal
+# Site settings
+title: Lee Blackwell
+description: Professional Resume
+# baseurl: 
+locale: en_US
+url: https://leedabee.github.io
+
+# User settings
+username: Lee Blackwell
+user_description: All things data - A true Data Queen
+user_title: Data Engineer
+email: leslie.m.blackwell@gmail.com
+
+
+exclude: ['package.json', 'src' , 'node_modules']
